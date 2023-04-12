@@ -7,8 +7,9 @@ DevOps is a methodology or mindset that is used in the IT world. It uses a set o
 * To bridge the gap between developers and operations team.
 * Too much time taken up in communication between teams
 
-![DevOps before.png](..%2F..%2F..%2FOneDrive%2FDocuments%2FSparta%20Global%2FDevOps%20before.png)
-![DevOps after.png](..%2F..%2F..%2FOneDrive%2FDocuments%2FSparta%20Global%2FDevOps%20after.png)
+![DevOps before](https://user-images.githubusercontent.com/129949090/231518823-17a3e7f0-d2c4-45de-896f-fdafe4d2b470.png)
+![DevOps after](https://user-images.githubusercontent.com/129949090/231518677-9292edf4-734d-4bc3-a36a-61e0df137e1d.png)
+
 
 ## What is the role of DevOps?
 * Bridge the gap between developers and operations team
