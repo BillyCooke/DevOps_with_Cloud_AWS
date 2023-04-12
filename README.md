@@ -13,7 +13,7 @@ DevOps was brought in to bridge the gap between the developemnt team and the ope
 * Continuous delivery
 * Reduced cost of production
 
-## What are thr four key pillars of DevOps
+## What are the four key pillars of DevOps
 * Communication
 * Collaboration
 * Automation
