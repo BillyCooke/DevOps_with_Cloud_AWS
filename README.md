@@ -1,32 +1,34 @@
-# DevOps and AWS
+# DevOps
 
 ## What is DevOps?
 DevOps is a methodology or mindset that is used in the IT world. It uses a set of practices to help improve the speed and efficiency at which organizations deliver software.
 
-## Why DevOps?
-DevOps was brought in to bridge the gap between the developemnt team and the operations team to remove the miscommunicatio and the interdepartmental arguing. As DevOps you will understand parts of each side and therefore will be able to fix certain problems to improve the process.
+## Why was DevOps created?
+* To bridge the gap between developers and operations team.
+* Too much time taken up in communication between teams
 
-## What are the benefits of DevOps?
-* Faster product delivery
-* Scalability
-* More agile
-* Continuous delivery
-* Reduced cost of production
+![DevOps before.png](..%2F..%2F..%2FOneDrive%2FDocuments%2FSparta%20Global%2FDevOps%20before.png)
+![DevOps after.png](..%2F..%2F..%2FOneDrive%2FDocuments%2FSparta%20Global%2FDevOps%20after.png)
 
-## What are the four key pillars of DevOps
-* Communication
-* Collaboration
-* Automation
-* Monitoring
+## What is the role of DevOps?
+* Bridge the gap between developers and operations team
+* Remove miscommunication and interdepartmental arguments - blame each other for problems
+* Build, test and maintain infrastructure so that software can be developed and released
+* Monitor every part of the software cycle
 
-## What is a Monolith?
-This is a single code unit
+## What is cloud computing and AWS?
+* Cloud computing is online data storage system.
+* Simple way to think of it - a back-up storage for your local storage
 
-## What is Cloud computing?
-Cloud computing is online data storage system that is used without direct user management. For example it can be used as a back up storage system for your computer if your hard drive breaks and is irretrievable.
+* AWS is a tool used by DevOps
+* Provides cloud computing platforms and API's
 
-## What are the benefits?
+## How does it fit into DevOps?
+* DevOps engineers use cloud computing for greater automation 
+* It allows the use of continuous developments without being held back by local environments.
+* Promotes collaboration - less time sending files back and fourth
 
+## Benefits of Cloud computing
 * Greater security
 * Flexibility - less time spent on local storage problems
 * Fast data recovery
@@ -34,13 +36,8 @@ Cloud computing is online data storage system that is used without direct user m
 * Competitive edge
 * Potential reduction in costs
 
-## Why should we use it?
-There have been studies recently to show that companies who do not use cloud computing have fallen behind the learning curve and the companies who do sue feel much better off. They feel the main advantage if the competitive edge it gives them over companies who do not use it.
-
-## How does it fit into DevOps?
-DevOps engineers use cloud computing for greater automation. It allows the use of continuous developments without being held back by local environments.
-
-## How does it benefit the business?
-* Advanced security both online and physically
-* Scalability - which can lead to reduced costs as you only pay for what you need.
-* Higher performance speeds
+## Who is using it?
+* Netflix - switching from DVD's - Blockbuster went bust because they did not switch
+* Apple - icloud
+* Amazon - AWS
+* Google - impossible to store all that data on local storage
